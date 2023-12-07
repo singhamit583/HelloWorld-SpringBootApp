@@ -1,4 +1,4 @@
-# Home Assignment <HelloWorld-SpringBootApp>
+# Home Assignment: <HelloWorld-SpringBootApp>
 
 
 # To build the Spring Boot App and Create Uber jar
